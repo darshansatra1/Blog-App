@@ -250,6 +250,8 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2021.5)
+      tzinfo (>= 1.0.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -276,7 +278,7 @@ DEPENDENCIES
   capybara
   debug
   guard (~> 2.18)
-  guard-livereload (~> 2.5, >= 2.5.2)
+  guard-livereload (~> 2.5)
   importmap-rails
   jbuilder
   pg (~> 1.1)
