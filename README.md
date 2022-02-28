@@ -10,6 +10,6 @@ A simple blog application which uses following important gems:
 We will be using Postgres as our primary database.
 
 ### Some Screenshots
-![](https://github.com/darshansatra1/Blog-App/screenshots/dashboard.png)
-![](https://github.com/darshansatra1/Blog-App/screenshots/Blog.png)
-![](https://github.com/darshansatra1/Blog-App/screenshots/Edit.png)
+![](screenshots/dashboard.png)
+![](screenshots/Blog.png)
+![](screenshots/Edit.png)
