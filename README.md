@@ -1,24 +1,15 @@
-# README
+# Blog Application using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple blog application which uses following important gems:
+- devise
+- guard
+- simple_form
+- bulma-rails
+- pg
 
-Things you may want to cover:
+We will be using Postgres as our primary database.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Some Screenshots
+![](https://github.com/darshansatra1/Blog-App/screenshots/dashboard.png)
+![](https://github.com/darshansatra1/Blog-App/screenshots/Blog.png)
+![](https://github.com/darshansatra1/Blog-App/screenshots/Edit.png)
